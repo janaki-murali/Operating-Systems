@@ -2,13 +2,6 @@
 
 Welcome to the **Operating Systems - C Code Examples** repository! This repository contains a collection of C programs designed to demonstrate various concepts and algorithms related to operating systems. It includes examples for process scheduling, memory management, disk scheduling, semaphores, and more.
 
-## Table of Contents
-
-- [Programs Included](#programs-included)
-- [Running the Programs](#running-the-programs)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Programs Included
 
 This repository includes the following C programs:
